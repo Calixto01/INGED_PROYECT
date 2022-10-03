@@ -21,7 +21,6 @@
             android:src="@drawable/logoclarouniversa"
             />
 
-
     </LinearLayout>
 
     <LinearLayout
